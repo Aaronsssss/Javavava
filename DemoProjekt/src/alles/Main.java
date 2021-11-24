@@ -12,6 +12,7 @@ public class Main {
 	public void testMethode() {
 		for(int i = 0; i<10; i++) {
 			System.out.println("Hier steht die " + (i+1) + ". Zeile!");
+			//Kommentar
 		}
 	}
 
